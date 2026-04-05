@@ -7,7 +7,7 @@ Before running the application, ensure you have the following installed on your 
 1. **MySql** database - https://dev.mysql.com/downloads/installer/
 2. **Mysql Workbench** - https://dev.mysql.com/downloads/workbench/
 3. **Python** - https://www.python.org/downloads/
-4. **pip** - 
+4. **pip** - python -m ensurepip --upgrade
 3. **Git** - https://git-scm.com/download/win
 4. **VS Code** - https://code.visualstudio.com/
 
